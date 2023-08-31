@@ -73,7 +73,7 @@ if result:
     elif in_lang == "Español":
         input_language = "es"
     elif in_lang == "Aleman":
-        input_language = "ny"
+        input_language = "de"
     elif in_lang == "Coreano":
         input_language = "ko"
     elif in_lang == "Mandarín":
@@ -90,7 +90,7 @@ if result:
     elif out_lang == "Español":
         output_language = "es"
     elif out_lang == "Aleman":
-        output_language = "ny"
+        output_language = "de"
     elif out_lang == "Coreano":
         output_language = "ko"
     elif out_lang == "Mandarín":
